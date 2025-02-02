@@ -1,5 +1,11 @@
 # Verifiable Kaito: A Trustless Attention Economy
 
+## 🔗 Contract Addresses
+- **Yapster NFT Contract (ERC-7007)**: [0x6eb289ba474561e70fd3021ac3c45ca4db12f08b](https://sepolia.basescan.org/address/0x6eb289ba474561e70fd3021ac3c45ca4db12f08b#code)
+- **ORA-OPML Contract**: [0x9ab1b76ab693a008f983ccf601bdd60f7120a4f8](https://sepolia.basescan.org/address/0x9ab1b76ab693a008f983ccf601bdd60f7120a4f8#code)
+
+---
+
 ## 🚀 Introduction
 
 In this cycle of attention that generates money, there should be **no centralized entity** acting as a trusted intermediary for incentivizing on-chain users. Our solution introduces **Verifiable Kaito**, a decentralized mechanism that assigns **Yaps** to **CT Yapsters** in a **fully transparent and verifiable** manner. By leveraging **ERC-7007** and **ORA.io opML**, we eliminate the need for centralized trust and ensure fair distribution of Yaps.
@@ -29,8 +35,6 @@ By leveraging cryptographic proofs and smart contracts, we empower users to **au
 - **Twitter Interaction**: [Github](https://github.com/yapster-ai/x-interactions)
 - **Smart Contracts**: [Github](https://github.com/yapster-ai/contracts)
 
-## 🔗 Contract Addresses
-- **Yapster NFT Contract (ERC-7007)**: [0x6eb289ba474561e70fd3021ac3c45ca4db12f08b](https://sepolia.basescan.org/address/0x6eb289ba474561e70fd3021ac3c45ca4db12f08b#code)
-- **ORA-OPML Contract**: [0x9ab1b76ab693a008f983ccf601bdd60f7120a4f8](https://sepolia.basescan.org/address/0x9ab1b76ab693a008f983ccf601bdd60f7120a4f8#code)
+
 
 Join the revolution in attention-driven monetization. 🛠
