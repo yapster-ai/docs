@@ -5,3 +5,7 @@ The current problem is that all Yaps assigned today rely on a "trust me, bro" ap
 Our solution maintains the same vibe, but with a crucial difference: if anyone has doubts, they can verify any user's Yaps using a verifiable agent that leverages the ERC-7007 standard and ORA.io opML.
 
 Don’t trust—verify everything, Attention is money.
+
+
+Smart Contract Architecture: 
+![image](https://github.com/user-attachments/assets/dc3032ae-aadd-4f3b-8123-dad70da76790)
