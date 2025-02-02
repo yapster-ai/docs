@@ -1,8 +1,8 @@
 # Yapster.AI: A Trustless Attention Economy
 
 ## 🔗 Contract Addresses
-- **Yapster NFT Contract (ERC-7007)**: [0x6eb289ba474561e70fd3021ac3c45ca4db12f08b](https://sepolia.basescan.org/address/0x6eb289ba474561e70fd3021ac3c45ca4db12f08b#code)
-- **ORA-OPML Contract**: [0x9ab1b76ab693a008f983ccf601bdd60f7120a4f8](https://sepolia.basescan.org/address/0x9ab1b76ab693a008f983ccf601bdd60f7120a4f8#code)
+- **Yapster NFT Contract (ERC-7007)**: https://explorer.mantle.xyz/token/0x0A1d7Bc5330608B7A0FF13b2A8E137Fa886C8703
+- **ORA-OPML Contract**: [0xe028b3615CE34bF1938c00FBfB0817abc8ff6565](https://explorer.mantle.xyz/address/0xe028b3615CE34bF1938c00FBfB0817abc8ff6565)
 
 ---
 
