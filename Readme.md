@@ -1,4 +1,4 @@
-# Verifiable Kaito: A Trustless Attention Economy
+# Yapster.AI: A Trustless Attention Economy
 
 ## 🔗 Contract Addresses
 - **Yapster NFT Contract (ERC-7007)**: [0x6eb289ba474561e70fd3021ac3c45ca4db12f08b](https://sepolia.basescan.org/address/0x6eb289ba474561e70fd3021ac3c45ca4db12f08b#code)
