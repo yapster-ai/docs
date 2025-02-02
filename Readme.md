@@ -1,11 +1,37 @@
-In this cycle of attention that generates money, there should be no way for a centralized entity to act as a trusted intermediary for incentivizing on-chain users. Our solution is a type of verifiable Kaito that assigns Yaps to CT Yapsters in a fully verifiable manner.
+# Verifiable Kaito: A Trustless Attention Economy
 
-The current problem is that all Yaps assigned today rely on a "trust me, bro" approach, stored in a centralized database and backend, which harms the overall CT ecosystem. This system favors ASS-licking top CT performers on Kaito, reinforcing bias.
+## 🚀 Introduction
 
-Our solution maintains the same vibe, but with a crucial difference: if anyone has doubts, they can verify any user's Yaps using a verifiable agent that leverages the ERC-7007 standard and ORA.io opML.
+In this cycle of attention that generates money, there should be **no centralized entity** acting as a trusted intermediary for incentivizing on-chain users. Our solution introduces **Verifiable Kaito**, a decentralized mechanism that assigns **Yaps** to **CT Yapsters** in a **fully transparent and verifiable** manner. By leveraging **ERC-7007** and **ORA.io opML**, we eliminate the need for centralized trust and ensure fair distribution of Yaps.
 
-Don’t trust—verify everything, Attention is money.
+## 🔥 The Problem
+- Today's Yap assignments depend on **centralized databases and opaque algorithms**.
+- "Trust me, bro" is the norm—users have no way to **verify distributions**.
+- The system disproportionately favors **ASS-licking top CT performers**, reinforcing bias and harming the CT ecosystem.
 
+## 🛠 The Solution: Verifiable Kaito
+We maintain the **same fun, engaging experience** but with one **game-changing difference**: **complete verifiability**. If anyone has doubts, they can **verify any user's Yaps** using our **verifiable agent**.
 
-Smart Contract Architecture: 
-![image](https://github.com/user-attachments/assets/dc3032ae-aadd-4f3b-8123-dad70da76790)
+### 🔗 Powered By:
+- **[ERC-7007](https://eips.ethereum.org/EIPS/eip-7007)**: Enables fully transparent, on-chain incentives.
+- **[ORA.io opML](https://ora.io/)**: Ensures trustless AI-powered validation.
+
+## 🧐 Don't Trust—Verify Everything
+**Attention is money.**
+
+By leveraging cryptographic proofs and smart contracts, we empower users to **audit Yap distributions** at any time. No more bias, no more trust-based allocation—just pure verifiability.
+
+## 🏗 Smart Contract Architecture
+![Smart Contract Architecture](https://github.com/user-attachments/assets/dc3032ae-aadd-4f3b-8123-dad70da76790)
+
+## 🚀 Get Started
+- **Client App**: [Live Demo](https://www.yapster.ai/) , [Github](https://github.com/yapster-ai/client)
+- **Twitter Interaction**: [Github](https://github.com/yapster-ai/x-interactions)
+- **Smart Contracts**: [Github](https://github.com/yapster-ai/contracts)
+
+Join the revolution in attention-driven monetization. 🛠
+
+---
+
+For updates, follow us on **[Twitter](#)** or contribute to the **[GitHub repository](#)**.
+
