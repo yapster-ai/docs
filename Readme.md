@@ -31,7 +31,4 @@ By leveraging cryptographic proofs and smart contracts, we empower users to **au
 
 Join the revolution in attention-driven monetization. 🛠
 
----
-
-For updates, follow us on **[Twitter](#)** or contribute to the **[GitHub repository](#)**.
 
